@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=W-X-Dai&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=w-x-dai&show_icons=true&cache_seconds=86400)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W-X-Dai)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w-x-dai&layout=compact&cache_seconds=86400)
+
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%2037%20mins-blue)
