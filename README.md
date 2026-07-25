@@ -43,24 +43,23 @@ Sunday                   49 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Python                   6 hrs 38 mins       █████████████░░░░░░░░░░░░   50.15 % 
-Markdown                 3 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
-YAML                     1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-Other                    54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-JSON                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+Python                   7 hrs 36 mins       ████████████░░░░░░░░░░░░░   47.04 % 
+Markdown                 4 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   28.88 % 
+YAML                     1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+Other                    1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+JSON                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 46 mins       █████████████░░░░░░░░░░░░   51.12 % 
-Claude Code              6 hrs 28 mins       ████████████░░░░░░░░░░░░░   48.88 % 
+Claude Code              8 hrs 47 mins       ██████████████░░░░░░░░░░░   54.33 % 
+VS Code                  7 hrs 23 mins       ███████████░░░░░░░░░░░░░░   45.67 % 
 
 🐱‍💻 Projects: 
-Gen                      8 hrs 4 mins        ███████████████░░░░░░░░░░   61.03 % 
-cervismart               4 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   35.33 % 
-Latex                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-DBMS_FinalProj           13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Gen                      10 hrs 53 mins      █████████████████░░░░░░░░   67.26 % 
+cervismart               5 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   31.17 % 
+Latex                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 
 💻 Operating System: 
-Linux                    13 hrs 14 mins      █████████████████████████   100.00 % 
+Linux                    16 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -76,5 +75,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 01:54:34 UTC
+ Last Updated on 25/07/2026 01:54:40 UTC
 <!--END_SECTION:waka-->
