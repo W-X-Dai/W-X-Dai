@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-549%20hrs%202%20mins-blue?style=flat)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -43,37 +45,37 @@ Sunday                   49 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Python                   7 hrs 36 mins       ████████████░░░░░░░░░░░░░   47.04 % 
-Markdown                 4 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   28.88 % 
-YAML                     1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-Other                    1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-JSON                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+Python                   9 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   39.14 % 
+Markdown                 5 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
+YAML                     2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+Other                    1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+JSON                     1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 47 mins       ██████████████░░░░░░░░░░░   54.33 % 
-VS Code                  7 hrs 23 mins       ███████████░░░░░░░░░░░░░░   45.67 % 
+VS Code                  12 hrs 4 mins       █████████████░░░░░░░░░░░░   50.57 % 
+Claude Code              11 hrs 47 mins      ████████████░░░░░░░░░░░░░   49.43 % 
 
 🐱‍💻 Projects: 
-Gen                      10 hrs 53 mins      █████████████████░░░░░░░░   67.26 % 
-cervismart               5 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   31.17 % 
-Latex                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+Gen                      13 hrs 50 mins      ██████████████░░░░░░░░░░░   57.98 % 
+cervismart               8 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   36.18 % 
+Latex                    1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
 
 💻 Operating System: 
-Linux                    16 hrs 11 mins      █████████████████████████   100.00 % 
+Linux                    23 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   7 repos             ████████░░░░░░░░░░░░░░░░░   30.43 % 
-Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Python                   8 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 ```
 
 
 
 
- Last Updated on 25/07/2026 01:54:40 UTC
+ Last Updated on 26/07/2026 01:58:17 UTC
 <!--END_SECTION:waka-->
