@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-556%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-533%20hrs%2054%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-199%20hrs%2017%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -45,37 +47,62 @@ Sunday                   49 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Python                   9 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   38.93 % 
-Markdown                 5 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
-YAML                     1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
-Other                    1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-JSON                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+Python                   12 hrs 32 mins      ██████████░░░░░░░░░░░░░░░   41.01 % 
+Markdown                 6 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
+JSON                     2 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+HTML                     1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+Other                    1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
 
 🔥 Editors: 
-Claude Code              13 hrs 48 mins      ███████████████░░░░░░░░░░   59.04 % 
-VS Code                  9 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   40.96 % 
+VS Code                  15 hrs 33 mins      █████████████░░░░░░░░░░░░   50.91 % 
+Claude Code              15 hrs              ████████████░░░░░░░░░░░░░   49.09 % 
 
 🐱‍💻 Projects: 
-Gen                      14 hrs 47 mins      ████████████████░░░░░░░░░   63.24 % 
-cervismart               7 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   30.80 % 
-Latex                    1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+Gen                      16 hrs 12 mins      █████████████░░░░░░░░░░░░   53.01 % 
+cervismart               6 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+chest-pain-ai-doctor     6 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
+Latex                    1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
 
 💻 Operating System: 
-Linux                    23 hrs 22 mins      █████████████████████████   100.00 % 
+Linux                    30 hrs 34 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 28 hrs 22 mins (92.82%)
+
+✍️ 64,086 lines written by AI, 869 lines written by hand (98.66% AI-written)
+
+🔤 1,321,243,544 Input Tokens, 4,756,011 Output Tokens
+
+💵 $2140.79 Estimated AI Cost This Week
+
+🧠 76 AI Sessions, 318 AI Prompts
+
+GPT                      47,269 lines        ██████████████████░░░░░░░   73.21 % 
+Sonnet                   17,293 lines        ███████░░░░░░░░░░░░░░░░░░   26.79 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 98.66% of written lines came from AI
+📚 Verbose Prompter — average 6,654 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 1.88% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   8 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Python                   9 repos             █████████░░░░░░░░░░░░░░░░   36.00 % 
+Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 ```
 
 
 
 
- Last Updated on 27/07/2026 02:06:21 UTC
+ Last Updated on 28/07/2026 01:48:26 UTC
 <!--END_SECTION:waka-->
