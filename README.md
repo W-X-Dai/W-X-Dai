@@ -16,28 +16,28 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-560%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-560%20hrs%2059%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-226%20hrs%2016%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-226%20hrs%2034%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                30 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-🌆 Daytime                64 commits          ████████░░░░░░░░░░░░░░░░░   31.53 % 
-🌃 Evening                83 commits          ██████████░░░░░░░░░░░░░░░   40.89 % 
-🌙 Night                  26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+🌞 Morning                30 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+🌆 Daytime                64 commits          ████████░░░░░░░░░░░░░░░░░   31.37 % 
+🌃 Evening                84 commits          ██████████░░░░░░░░░░░░░░░   41.18 % 
+🌙 Night                  26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   29 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Tuesday                  20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-Wednesday                28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Thursday                 31 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
-Friday                   16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
-Saturday                 30 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-Sunday                   49 commits          ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
+Monday                   29 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Tuesday                  20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+Wednesday                28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Thursday                 31 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+Friday                   17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Saturday                 30 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Sunday                   49 commits          ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
 ```
 
 
@@ -47,49 +47,49 @@ Sunday                   49 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Python                   16 hrs 52 mins      ██████████░░░░░░░░░░░░░░░   39.31 % 
-Markdown                 7 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
-JSON                     4 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-HTML                     2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-Vue                      2 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+Python                   15 hrs 45 mins      ██████████░░░░░░░░░░░░░░░   40.30 % 
+Markdown                 5 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+JSON                     4 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+HTML                     2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+Vue                      2 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
 
 🔥 Editors: 
-VS Code                  29 hrs 38 mins      █████████████████░░░░░░░░   69.05 % 
-Claude Code              13 hrs 17 mins      ████████░░░░░░░░░░░░░░░░░   30.95 % 
+VS Code                  28 hrs 8 mins       ██████████████████░░░░░░░   71.97 % 
+Claude Code              10 hrs 57 mins      ███████░░░░░░░░░░░░░░░░░░   28.03 % 
 
 🐱‍💻 Projects: 
-chest-pain-ai-doctor     19 hrs 59 mins      ████████████░░░░░░░░░░░░░   46.58 % 
-Gen                      14 hrs 8 mins       ████████░░░░░░░░░░░░░░░░░   32.93 % 
-cervismart               7 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
-Latex                    1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+chest-pain-ai-doctor     19 hrs 59 mins      █████████████░░░░░░░░░░░░   51.13 % 
+Gen                      11 hrs 19 mins      ███████░░░░░░░░░░░░░░░░░░   28.96 % 
+cervismart               6 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+Latex                    1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 💻 Operating System: 
-Linux                    42 hrs 55 mins      █████████████████████████   100.00 % 
+Linux                    39 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 41 hrs 15 mins (96.14%)
+⏱ AI Coding Time: 37 hrs 41 mins (96.37%)
 
-✍️ 119,257 lines written by AI, 248 lines written by hand (99.79% AI-written)
+✍️ 112,326 lines written by AI, 91 lines written by hand (99.92% AI-written)
 
-🔤 1,772,976,144 Input Tokens, 6,844,636 Output Tokens
+🔤 1,058,443,543 Input Tokens, 5,145,801 Output Tokens
 
-💵 $4384.53 Estimated AI Cost This Week
+💵 $4135.63 Estimated AI Cost This Week
 
-🧠 134 AI Sessions, 691 AI Prompts
+🧠 123 AI Sessions, 658 AI Prompts
 
-GPT                      103,994 lines       █████████████████████░░░░   84.66 % 
-Sonnet                   18,841 lines        ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+GPT                      97,836 lines        █████████████████████░░░░   84.44 % 
+Sonnet                   18,035 lines        ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.79% of written lines came from AI
-📚 Verbose Prompter — average 8,057 characters per prompt
+🤖 AI-Driven — 99.92% of written lines came from AI
+📚 Verbose Prompter — average 7,939 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.29% of changed lines were hand-edited
+🚀 High AI Trust — 0.18% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -105,5 +105,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2026 02:00:18 UTC
+ Last Updated on 01/08/2026 02:01:19 UTC
 <!--END_SECTION:waka-->
