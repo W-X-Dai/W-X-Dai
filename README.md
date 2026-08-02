@@ -47,49 +47,49 @@ Sunday                   49 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Python                   15 hrs 45 mins      ██████████░░░░░░░░░░░░░░░   40.30 % 
-Markdown                 5 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-JSON                     4 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-HTML                     2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
-Vue                      2 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+Python                   15 hrs 11 mins      ████████████░░░░░░░░░░░░░   47.69 % 
+Markdown                 4 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+JSON                     3 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+Vue                      2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+HTML                     2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
 
 🔥 Editors: 
-VS Code                  28 hrs 8 mins       ██████████████████░░░░░░░   71.97 % 
-Claude Code              10 hrs 57 mins      ███████░░░░░░░░░░░░░░░░░░   28.03 % 
+VS Code                  22 hrs 24 mins      ██████████████████░░░░░░░   70.34 % 
+Claude Code              9 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   29.66 % 
 
 🐱‍💻 Projects: 
-chest-pain-ai-doctor     19 hrs 59 mins      █████████████░░░░░░░░░░░░   51.13 % 
-Gen                      11 hrs 19 mins      ███████░░░░░░░░░░░░░░░░░░   28.96 % 
-cervismart               6 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
-Latex                    1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
-Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+chest-pain-ai-doctor     20 hrs              ████████████████░░░░░░░░░   62.80 % 
+Gen                      9 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   31.08 % 
+cervismart               1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Latex                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 💻 Operating System: 
-Linux                    39 hrs 6 mins       █████████████████████████   100.00 % 
+Linux                    31 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 37 hrs 41 mins (96.37%)
+⏱ AI Coding Time: 31 hrs 26 mins (98.72%)
 
-✍️ 112,326 lines written by AI, 91 lines written by hand (99.92% AI-written)
+✍️ 100,115 lines written by AI, 31 lines written by hand (99.97% AI-written)
 
-🔤 1,058,443,543 Input Tokens, 5,145,801 Output Tokens
+🔤 959,470,294 Input Tokens, 4,427,948 Output Tokens
 
-💵 $4135.63 Estimated AI Cost This Week
+💵 $3656.24 Estimated AI Cost This Week
 
-🧠 123 AI Sessions, 658 AI Prompts
+🧠 95 AI Sessions, 603 AI Prompts
 
-GPT                      97,836 lines        █████████████████████░░░░   84.44 % 
-Sonnet                   18,035 lines        ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+GPT                      83,535 lines        ████████████████████░░░░░   80.63 % 
+Sonnet                   20,070 lines        █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.92% of written lines came from AI
-📚 Verbose Prompter — average 7,939 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.18% of changed lines were hand-edited
+🤖 AI-Driven — 99.97% of written lines came from AI
+📚 Verbose Prompter — average 8,264 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.04% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -105,5 +105,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2026 02:01:19 UTC
+ Last Updated on 02/08/2026 01:57:34 UTC
 <!--END_SECTION:waka-->
