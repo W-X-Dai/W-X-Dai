@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-573%20hrs%209%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-238%20hrs%2039%20mins-blue?style=flat)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -47,50 +43,50 @@ Sunday                   49 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Python                   10 hrs 47 mins      ██████████████░░░░░░░░░░░   57.20 % 
-Markdown                 2 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-Bash                     1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Vue                      1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
-JavaScript               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+Python                   11 hrs 27 mins      ██████████████░░░░░░░░░░░   55.75 % 
+Markdown                 3 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+Bash                     1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+Vue                      1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+JavaScript               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 44 mins      ████████████████░░░░░░░░░   62.22 % 
-Claude Code              7 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   37.78 % 
+VS Code                  12 hrs 16 mins      ███████████████░░░░░░░░░░   59.69 % 
+Claude Code              8 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   40.31 % 
 
 🐱‍💻 Projects: 
-Gen                      7 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   39.52 % 
-chest-pain-ai-doctor     4 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
-medical-consultation-chat4 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
-cervismart               1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-ehis                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+Gen                      8 hrs 48 mins       ███████████░░░░░░░░░░░░░░   42.84 % 
+chest-pain-ai-doctor     4 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
+medical-consultation-chat4 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
+cervismart               1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+ehis                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
 
 💻 Operating System: 
-Linux                    18 hrs 52 mins      █████████████████████████   100.00 % 
+Linux                    20 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 3 mins (95.66%)
+⏱ AI Coding Time: 19 hrs 19 mins (93.96%)
 
-✍️ 44,724 lines written by AI, 11 lines written by hand (99.98% AI-written)
+✍️ 40,496 lines written by AI, 14 lines written by hand (99.97% AI-written)
 
-🔤 498,903,186 Input Tokens, 1,996,721 Output Tokens
+🔤 524,413,855 Input Tokens, 2,070,381 Output Tokens
 
-💵 $2299.90 Estimated AI Cost This Week
+💵 $2351.89 Estimated AI Cost This Week
 
-🧠 69 AI Sessions, 219 AI Prompts
+🧠 71 AI Sessions, 229 AI Prompts
 
-GPT                      26,999 lines        ███████████████░░░░░░░░░░   59.41 % 
-Sonnet                   16,076 lines        █████████░░░░░░░░░░░░░░░░   35.38 % 
-Opus                     2,369 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+GPT                      26,999 lines        ████████████████░░░░░░░░░   65.51 % 
+Sonnet                   11,848 lines        ███████░░░░░░░░░░░░░░░░░░   28.75 % 
+Opus                     2,369 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📚 Verbose Prompter — average 7,234 characters per prompt
+🤖 AI-Driven — 99.97% of written lines came from AI
+📚 Verbose Prompter — average 6,900 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.03% of changed lines were hand-edited
+🚀 High AI Trust — 0.04% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -106,5 +102,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2026 01:48:04 UTC
+ Last Updated on 07/08/2026 02:12:49 UTC
 <!--END_SECTION:waka-->
