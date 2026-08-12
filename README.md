@@ -16,28 +16,28 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-582%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-583%20hrs%2028%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-247%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-247%20hrs%2059%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                48 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
-🌆 Daytime                83 commits          ███████░░░░░░░░░░░░░░░░░░   29.54 % 
-🌃 Evening                115 commits         ██████████░░░░░░░░░░░░░░░   40.93 % 
-🌙 Night                  35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+🌞 Morning                33 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+🌆 Daytime                64 commits          ████████░░░░░░░░░░░░░░░░░   32.00 % 
+🌃 Evening                81 commits          ██████████░░░░░░░░░░░░░░░   40.50 % 
+🌙 Night                  22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-Tuesday                  31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-Wednesday                38 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-Thursday                 38 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-Friday                   34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-Saturday                 42 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-Sunday                   62 commits          ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
+Monday                   28 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Tuesday                  21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+Wednesday                31 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+Thursday                 27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Friday                   22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+Saturday                 30 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Sunday                   41 commits          █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
 ```
 
 
@@ -47,50 +47,49 @@ Sunday                   62 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Python                   9 hrs 14 mins       █████████████░░░░░░░░░░░░   50.47 % 
-Bash                     2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-Markdown                 2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
-Vue                      1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-Other                    53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+Python                   5 hrs 50 mins       █████████████░░░░░░░░░░░░   53.13 % 
+Markdown                 1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
+Bash                     1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+SRecode Template         22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+Git Config               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 10 mins      ██████████████████░░░░░░░   71.99 % 
-Claude Code              5 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   28.01 % 
+VS Code                  6 hrs 15 mins       ██████████████░░░░░░░░░░░   56.92 % 
+Claude Code              4 hrs 44 mins       ███████████░░░░░░░░░░░░░░   43.08 % 
 
 🐱‍💻 Projects: 
-Gen                      5 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   30.80 % 
-chest-pain-ai-doctor     4 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   26.96 % 
-medical-consultation-chat4 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
-whisper                  1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-cervismart               55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+Gen                      5 hrs 8 mins        ████████████░░░░░░░░░░░░░   46.72 % 
+medical-consultation-chat3 hrs 53 mins       █████████░░░░░░░░░░░░░░░░   35.41 % 
+whisper                  1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+chest-pain-ai-doctor     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 💻 Operating System: 
-Linux                    18 hrs 18 mins      █████████████████████████   100.00 % 
+Linux                    10 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 11 mins (88.44%)
+⏱ AI Coding Time: 9 hrs 38 mins (87.67%)
 
-✍️ 31,451 lines written by AI, 42 lines written by hand (99.87% AI-written)
+✍️ 13,485 lines written by AI, 37 lines written by hand (99.73% AI-written)
 
-🔤 479,697,465 Input Tokens, 1,874,907 Output Tokens
+🔤 320,361,232 Input Tokens, 1,188,192 Output Tokens
 
-💵 $2188.46 Estimated AI Cost This Week
+💵 $1422.38 Estimated AI Cost This Week
 
-🧠 70 AI Sessions, 232 AI Prompts
+🧠 55 AI Sessions, 123 AI Prompts
 
-GPT                      25,314 lines        ████████████████████░░░░░   78.71 % 
-Sonnet                   6,832 lines         █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
-Opus                     17 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+GPT                      8,338 lines         ███████████████░░░░░░░░░░   60.60 % 
+Sonnet                   5,420 lines         ██████████░░░░░░░░░░░░░░░   39.40 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.87% of written lines came from AI
-📚 Verbose Prompter — average 6,619 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.15% of changed lines were hand-edited
+🤖 AI-Driven — 99.73% of written lines came from AI
+📚 Verbose Prompter — average 6,146 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.29% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -106,5 +105,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/08/2026 01:04:08 UTC
+ Last Updated on 12/08/2026 01:11:20 UTC
 <!--END_SECTION:waka-->
