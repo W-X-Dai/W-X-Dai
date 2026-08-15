@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-585%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-587%20hrs%2014%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-250%20hrs%2027%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-251%20hrs%2048%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -47,45 +47,45 @@ Sunday                   49 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Python                   3 hrs 33 mins       █████████████░░░░░░░░░░░░   51.95 % 
-Markdown                 1 hr 41 mins        ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
-Git Config               39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-SRecode Template         22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
-Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+Python                   3 hrs 35 mins       ██████████████░░░░░░░░░░░   54.66 % 
+Markdown                 1 hr 34 mins        ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
+Git Config               39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+SRecode Template         22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 9 mins        ███████████████████░░░░░░   75.48 % 
-VS Code                  1 hr 40 mins        ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
+Claude Code              4 hrs 54 mins       ███████████████████░░░░░░   74.86 % 
+VS Code                  1 hr 38 mins        ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
 
 🐱‍💻 Projects: 
-Gen                      5 hrs 22 mins       ████████████████████░░░░░   78.68 % 
-whisper                  1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
+Gen                      5 hrs 6 mins        ███████████████████░░░░░░   77.78 % 
+whisper                  1 hr 27 mins        ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
 
 💻 Operating System: 
-Linux                    6 hrs 50 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 54 mins (86.53%)
+⏱ AI Coding Time: 5 hrs 38 mins (86.1%)
 
-✍️ 5,627 lines written by AI, 30 lines written by hand (99.47% AI-written)
+✍️ 5,730 lines written by AI, 30 lines written by hand (99.48% AI-written)
 
-🔤 8,890,413 Input Tokens, 478,568 Output Tokens
+🔤 4,446,952 Input Tokens, 471,324 Output Tokens
 
-💵 $47.57 Estimated AI Cost This Week
+💵 $43.57 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 39 AI Prompts
+🧠 13 AI Sessions, 30 AI Prompts
 
-Sonnet                   5,633 lines         █████████████████████████   100.00 % 
+Sonnet                   5,736 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.47% of written lines came from AI
-📚 Verbose Prompter — average 2,763 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.55% of changed lines were hand-edited
+🤖 AI-Driven — 99.48% of written lines came from AI
+📚 Verbose Prompter — average 3,586 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.54% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -101,5 +101,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/08/2026 01:12:14 UTC
+ Last Updated on 15/08/2026 00:44:20 UTC
 <!--END_SECTION:waka-->
