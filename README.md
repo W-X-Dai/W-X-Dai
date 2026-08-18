@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-588%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-590%20hrs%2020%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-253%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-254%20hrs%2019%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -47,49 +47,48 @@ Sunday                   62 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Python                   4 hrs 28 mins       ██████████████░░░░░░░░░░░   55.69 % 
-Markdown                 1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
-Git Config               40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-YAML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+Python                   4 hrs 41 mins       ███████████████░░░░░░░░░░   59.62 % 
+Markdown                 1 hr 48 mins        ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
+YAML                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Git Config               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+HTML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 19 mins       ████████████████████░░░░░   78.65 % 
-VS Code                  1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
-Codex Vscode             9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Claude Code              6 hrs 37 mins       █████████████████████░░░░   84.18 % 
+VS Code                  1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Codex Vscode             9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 
 🐱‍💻 Projects: 
-Gen                      6 hrs 57 mins       ██████████████████████░░░   86.58 % 
-whisper                  36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
-cervismart               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+Gen                      7 hrs 24 mins       ███████████████████████░░   93.98 % 
+cervismart               28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
 
 💻 Operating System: 
-Linux                    8 hrs 2 mins        █████████████████████████   100.00 % 
+Linux                    7 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 54 mins (85.99%)
+⏱ AI Coding Time: 7 hrs 6 mins (90.27%)
 
-✍️ 7,341 lines written by AI, 588 lines written by hand (92.58% AI-written)
+✍️ 7,719 lines written by AI, 587 lines written by hand (92.93% AI-written)
 
-🔤 4,692,931 Input Tokens, 586,718 Output Tokens
+🔤 4,188,917 Input Tokens, 591,993 Output Tokens
 
-💵 $59.16 Estimated AI Cost This Week
+💵 $55.96 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 53 AI Prompts
+🧠 20 AI Sessions, 58 AI Prompts
 
-Sonnet                   6,333 lines         ██████████████████████░░░   86.05 % 
-GPT                      563 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-Codex-Vscode             464 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+Sonnet                   6,711 lines         ██████████████████████░░░   86.73 % 
+GPT                      563 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+Codex-Vscode             464 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.58% of written lines came from AI
-📚 Verbose Prompter — average 3,444 characters per prompt
+🤖 AI-Driven — 92.93% of written lines came from AI
+📚 Verbose Prompter — average 3,151 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 7.6% of changed lines were hand-edited
+🚀 High AI Trust — 7.24% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -105,5 +104,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/08/2026 00:44:34 UTC
+ Last Updated on 18/08/2026 00:44:03 UTC
 <!--END_SECTION:waka-->
