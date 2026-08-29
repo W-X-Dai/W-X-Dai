@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-607%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-609%20hrs%2041%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-270%20hrs%2016%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-272%20hrs%2021%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -47,49 +47,48 @@ Sunday                   49 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Python                   6 hrs 9 mins        ██████████░░░░░░░░░░░░░░░   38.57 % 
-Markdown                 5 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   32.62 % 
-TeX                      2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
-Other                    1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
-YAML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Python                   5 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   36.65 % 
+Markdown                 5 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   33.70 % 
+TeX                      2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
+Other                    1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+YAML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 8 mins       █████████████████░░░░░░░░   69.87 % 
-VS Code                  4 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
-Codex Vscode             41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+Claude Code              10 hrs 10 mins      █████████████████░░░░░░░░   67.39 % 
+VS Code                  4 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   29.58 % 
+Codex Vscode             27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 
 🐱‍💻 Projects: 
-Gen                      12 hrs 31 mins      ████████████████████░░░░░   78.57 % 
-Latex                    2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
-gemini-api-quickstart    37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-cervismart               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+Gen                      11 hrs 48 mins      ████████████████████░░░░░   78.25 % 
+Latex                    2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
+gemini-api-quickstart    37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
 
 💻 Operating System: 
-Linux                    15 hrs 56 mins      █████████████████████████   100.00 % 
+Linux                    15 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 58 mins (81.33%)
+⏱ AI Coding Time: 11 hrs 58 mins (79.31%)
 
-✍️ 17,380 lines written by AI, 315 lines written by hand (98.22% AI-written)
+✍️ 15,494 lines written by AI, 323 lines written by hand (97.96% AI-written)
 
-🔤 10,689,880 Input Tokens, 1,417,772 Output Tokens
+🔤 9,970,346 Input Tokens, 1,367,690 Output Tokens
 
-💵 $183.08 Estimated AI Cost This Week
+💵 $166.42 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 155 AI Prompts
+🧠 23 AI Sessions, 157 AI Prompts
 
-Sonnet                   17,220 lines        █████████████████████████   98.33 % 
-GPT                      292 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Sonnet                   15,295 lines        ████████████████████████░   97.99 % 
+GPT                      313 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.22% of written lines came from AI
-📚 Verbose Prompter — average 3,434 characters per prompt
+🤖 AI-Driven — 97.96% of written lines came from AI
+📚 Verbose Prompter — average 3,449 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 3.14% of changed lines were hand-edited
+🚀 High AI Trust — 3.61% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -105,5 +104,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/08/2026 08:08:43 UTC
+ Last Updated on 29/08/2026 04:55:50 UTC
 <!--END_SECTION:waka-->
