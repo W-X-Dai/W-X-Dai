@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-614%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-614%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-277%20hrs%207%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-277%20hrs%2018%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -47,63 +47,60 @@ Sunday                   62 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Python                   2 hrs 32 mins       ████████████░░░░░░░░░░░░░   47.01 % 
-Markdown                 2 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   38.00 % 
-SRecode Template         13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
-TeX                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+Python                   2 hrs 29 mins       █████████████░░░░░░░░░░░░   50.65 % 
+Markdown                 1 hr 49 mins        █████████░░░░░░░░░░░░░░░░   37.27 % 
+SRecode Template         13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 35 mins       █████████████████████░░░░   84.94 % 
-VS Code                  46 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Codex Vscode             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Claude Code              4 hrs 32 mins       ███████████████████████░░   92.38 % 
+VS Code                  22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
 
 🐱‍💻 Projects: 
-Gen                      4 hrs 53 mins       ███████████████████████░░   90.33 % 
-whisper                  18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
-Latex                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-scratchpad               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Gen                      4 hrs 35 mins       ███████████████████████░░   93.44 % 
+whisper                  18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+scratchpad               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 💻 Operating System: 
-Linux                    5 hrs 24 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 57 mins (91.35%)
+⏱ AI Coding Time: 4 hrs 35 mins (93.51%)
 
-✍️ 9,479 lines written by AI, 10 lines written by hand (99.89% AI-written)
+✍️ 9,437 lines written by AI, 8,417 lines written by hand (52.86% AI-written)
 
-🔤 4,194,707 Input Tokens, 504,137 Output Tokens
+🔤 4,154,058 Input Tokens, 448,538 Output Tokens
 
-💵 $77.69 Estimated AI Cost This Week
+💵 $63.10 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 70 AI Prompts
+🧠 9 AI Sessions, 37 AI Prompts
 
-Sonnet                   10,008 lines        █████████████████████████   99.75 % 
-GPT                      25 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Sonnet                   9,437 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.89% of written lines came from AI
-📚 Verbose Prompter — average 3,240 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.2% of changed lines were hand-edited
+⚖️ Balanced with AI — 52.86% of written lines came from AI
+📚 Verbose Prompter — average 2,604 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 47.15% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   9 repos             █████████░░░░░░░░░░░░░░░░   36.00 % 
-Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Python                   9 repos             █████████░░░░░░░░░░░░░░░░   34.62 % 
+JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 ```
 
 
 
 
- Last Updated on 04/09/2026 02:08:43 UTC
+ Last Updated on 05/09/2026 02:09:06 UTC
 <!--END_SECTION:waka-->
