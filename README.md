@@ -16,28 +16,28 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-624%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-629%20hrs%2050%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-286%20hrs%2030%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-292%20hrs%204%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                48 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
-🌆 Daytime                83 commits          ███████░░░░░░░░░░░░░░░░░░   29.54 % 
-🌃 Evening                115 commits         ██████████░░░░░░░░░░░░░░░   40.93 % 
-🌙 Night                  35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+🌞 Morning                33 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+🌆 Daytime                68 commits          ████████░░░░░░░░░░░░░░░░░   31.78 % 
+🌃 Evening                86 commits          ██████████░░░░░░░░░░░░░░░   40.19 % 
+🌙 Night                  27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-Tuesday                  31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-Wednesday                38 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-Thursday                 38 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-Friday                   34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-Saturday                 42 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-Sunday                   62 commits          ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
+Monday                   30 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+Tuesday                  21 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+Wednesday                31 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+Thursday                 31 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+Friday                   22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+Saturday                 30 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+Sunday                   49 commits          ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
 ```
 
 
@@ -47,49 +47,49 @@ Sunday                   62 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-JavaScript               7 hrs 35 mins       ███████████░░░░░░░░░░░░░░   44.35 % 
-Markdown                 4 hrs               ██████░░░░░░░░░░░░░░░░░░░   23.45 % 
-Vue                      2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-Python                   1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-CSS                      1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+JavaScript               8 hrs 26 mins       █████████████░░░░░░░░░░░░   50.19 % 
+Markdown                 3 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
+Vue                      2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
+CSS                      1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+Python                   39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 47 mins       ███████████░░░░░░░░░░░░░░   45.51 % 
-Codex Vscode             6 hrs 53 mins       ██████████░░░░░░░░░░░░░░░   40.27 % 
-Claude Code              2 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+VS Code                  8 hrs 3 mins        ████████████░░░░░░░░░░░░░   47.96 % 
+Codex Vscode             7 hrs 36 mins       ███████████░░░░░░░░░░░░░░   45.32 % 
+Claude Code              1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
 
 🐱‍💻 Projects: 
-math_zombie              10 hrs 41 mins      ████████████████░░░░░░░░░   62.46 % 
-Math_War                 3 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
-Gen                      2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+math_zombie              10 hrs 41 mins      ████████████████░░░░░░░░░   63.59 % 
+Math_War                 4 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   29.34 % 
+Gen                      1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
 Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 Operating System: 
-Linux                    17 hrs 6 mins       █████████████████████████   100.00 % 
+Linux                    16 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 51 mins (98.49%)
+⏱ AI Coding Time: 16 hrs 32 mins (98.46%)
 
-✍️ 32,682 lines written by AI, 15 lines written by hand (99.95% AI-written)
+✍️ 31,256 lines written by AI, 15 lines written by hand (99.95% AI-written)
 
-🔤 19,436,112 Input Tokens, 2,684,772 Output Tokens
+🔤 18,966,076 Input Tokens, 2,663,718 Output Tokens
 
-💵 $472.19 Estimated AI Cost This Week
+💵 $476.90 Estimated AI Cost This Week
 
-🧠 151 AI Sessions, 310 AI Prompts
+🧠 156 AI Sessions, 311 AI Prompts
 
-GPT                      23,582 lines        ███████████████████░░░░░░   76.68 % 
-Sonnet                   4,709 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
-Codex-Vscode             2,462 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+GPT                      23,763 lines        ████████████████████░░░░░   80.81 % 
+Sonnet                   3,182 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+Codex-Vscode             2,462 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.95% of written lines came from AI
-📚 Verbose Prompter — average 19,161 characters per prompt
+📚 Verbose Prompter — average 20,593 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 1.08% of changed lines were hand-edited
+🚀 High AI Trust — 1.12% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -105,5 +105,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2026 02:01:46 UTC
+ Last Updated on 08/09/2026 02:14:45 UTC
 <!--END_SECTION:waka-->
