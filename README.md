@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-629%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-630%20hrs%2050%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-292%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-293%20hrs%204%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -47,49 +47,49 @@ Sunday                   49 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-JavaScript               8 hrs 26 mins       █████████████░░░░░░░░░░░░   50.19 % 
-Markdown                 3 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
-Vue                      2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-CSS                      1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-Python                   39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+JavaScript               8 hrs 26 mins       █████████████░░░░░░░░░░░░   50.61 % 
+Markdown                 3 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+Vue                      2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+CSS                      1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+Python                   33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 3 mins        ████████████░░░░░░░░░░░░░   47.96 % 
-Codex Vscode             7 hrs 36 mins       ███████████░░░░░░░░░░░░░░   45.32 % 
-Claude Code              1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+VS Code                  8 hrs 3 mins        ████████████░░░░░░░░░░░░░   48.37 % 
+Codex Vscode             7 hrs 36 mins       ███████████░░░░░░░░░░░░░░   45.71 % 
+Claude Code              59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
 
 🐱‍💻 Projects: 
-math_zombie              10 hrs 41 mins      ████████████████░░░░░░░░░   63.59 % 
-Math_War                 4 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   29.34 % 
-Gen                      1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+math_zombie              10 hrs 41 mins      ████████████████░░░░░░░░░   64.13 % 
+Math_War                 4 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   29.59 % 
+Gen                      1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Operating System: 
-Linux                    16 hrs 48 mins      █████████████████████████   100.00 % 
+Linux                    16 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 32 mins (98.46%)
+⏱ AI Coding Time: 16 hrs 24 mins (98.45%)
 
-✍️ 31,256 lines written by AI, 15 lines written by hand (99.95% AI-written)
+✍️ 31,131 lines written by AI, 15 lines written by hand (99.95% AI-written)
 
-🔤 18,966,076 Input Tokens, 2,663,718 Output Tokens
+🔤 18,062,371 Input Tokens, 2,642,789 Output Tokens
 
-💵 $476.90 Estimated AI Cost This Week
+💵 $468.86 Estimated AI Cost This Week
 
-🧠 156 AI Sessions, 311 AI Prompts
+🧠 155 AI Sessions, 309 AI Prompts
 
-GPT                      23,763 lines        ████████████████████░░░░░   80.81 % 
-Sonnet                   3,182 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-Codex-Vscode             2,462 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+GPT                      23,763 lines        ████████████████████░░░░░   81.15 % 
+Sonnet                   3,057 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+Codex-Vscode             2,462 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.95% of written lines came from AI
-📚 Verbose Prompter — average 20,593 characters per prompt
+📚 Verbose Prompter — average 20,727 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 1.12% of changed lines were hand-edited
+🚀 High AI Trust — 1.13% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -105,5 +105,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2026 02:14:45 UTC
+ Last Updated on 09/09/2026 02:18:32 UTC
 <!--END_SECTION:waka-->
