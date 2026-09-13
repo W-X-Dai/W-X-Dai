@@ -23,21 +23,21 @@ Here are some ideas to get you started:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                48 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
-🌆 Daytime                83 commits          ███████░░░░░░░░░░░░░░░░░░   29.54 % 
-🌃 Evening                115 commits         ██████████░░░░░░░░░░░░░░░   40.93 % 
-🌙 Night                  35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+🌞 Morning                33 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+🌆 Daytime                68 commits          ████████░░░░░░░░░░░░░░░░░   31.78 % 
+🌃 Evening                86 commits          ██████████░░░░░░░░░░░░░░░   40.19 % 
+🌙 Night                  27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-Tuesday                  31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-Wednesday                38 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-Thursday                 38 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-Friday                   34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-Saturday                 42 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-Sunday                   62 commits          ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
+Monday                   30 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+Tuesday                  21 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+Wednesday                31 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+Thursday                 31 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+Friday                   22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+Saturday                 30 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+Sunday                   49 commits          ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
 ```
 
 
@@ -47,49 +47,48 @@ Sunday                   62 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-JavaScript               8 hrs 25 mins       █████████████░░░░░░░░░░░░   52.76 % 
-Markdown                 3 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
-Vue                      2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-CSS                      1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
-JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+JavaScript               3 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   38.22 % 
+Text                     1 hr 52 mins        █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
+Markdown                 1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
+Vue                      44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+CSS                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 11 mins       █████████████░░░░░░░░░░░░   51.23 % 
-Codex Vscode             7 hrs 34 mins       ████████████░░░░░░░░░░░░░   47.36 % 
-Claude Code              13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+VS Code                  4 hrs 49 mins       █████████████░░░░░░░░░░░░   50.84 % 
+Codex Vscode             4 hrs 40 mins       ████████████░░░░░░░░░░░░░   49.16 % 
 
 🐱‍💻 Projects: 
-math_zombie              10 hrs 41 mins      █████████████████░░░░░░░░   66.86 % 
-Math_War                 4 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   30.94 % 
-Gen                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Math_War                 4 hrs 56 mins       █████████████░░░░░░░░░░░░   52.08 % 
+hackerrank-orchestrate-se2 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   29.77 % 
+math_zombie              1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
+Gen                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Latex                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Linux                    15 hrs 58 mins      █████████████████████████   100.00 % 
+Linux                    9 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 39 mins (97.94%)
+⏱ AI Coding Time: 9 hrs 24 mins (99.03%)
 
-✍️ 29,133 lines written by AI, 15 lines written by hand (99.95% AI-written)
+✍️ 7,585 lines written by AI, 9 lines written by hand (99.88% AI-written)
 
-🔤 17,568,654 Input Tokens, 2,533,837 Output Tokens
+🔤 15,380,953 Input Tokens, 1,264,220 Output Tokens
 
-💵 $456.21 Estimated AI Cost This Week
+💵 $221.53 Estimated AI Cost This Week
 
-🧠 152 AI Sessions, 306 AI Prompts
+🧠 86 AI Sessions, 691 AI Prompts
 
-GPT                      23,796 lines        ██████████████████████░░░   87.22 % 
-Codex-Vscode             2,462 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
-Sonnet                   1,026 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+GPT                      8,124 lines         █████████████████████████   100.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.95% of written lines came from AI
-📚 Verbose Prompter — average 21,167 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 1.2% of changed lines were hand-edited
+🤖 AI-Driven — 99.88% of written lines came from AI
+📚 Verbose Prompter — average 21,416 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.19% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -105,5 +104,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/09/2026 02:18:06 UTC
+ Last Updated on 13/09/2026 02:15:18 UTC
 <!--END_SECTION:waka-->
