@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-633%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-634%20hrs%2032%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-296%20hrs%2011%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-296%20hrs%2046%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -47,48 +47,49 @@ Sunday                   49 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Text                     2 hrs 10 mins       ██████████████░░░░░░░░░░░   57.36 % 
-Python                   38 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
-Git Config               23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Markdown                 18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
-Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+Python                   3 hrs 7 mins        ████████████░░░░░░░░░░░░░   48.27 % 
+Text                     2 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   33.65 % 
+Git Config               23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+SRecode Template         11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 51 mins       ███████████████████░░░░░░   75.58 % 
-Claude Code              29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-Codex Vscode             26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+VS Code                  3 hrs 8 mins        ████████████░░░░░░░░░░░░░   48.53 % 
+Claude Code              2 hrs 53 mins       ███████████░░░░░░░░░░░░░░   44.74 % 
+Codex Vscode             26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
 
 🐱‍💻 Projects: 
-hackerrank-orchestrate-se3 hrs 7 mins        █████████████████████░░░░   82.63 % 
-Gen                      39 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
-Latex                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+hackerrank-orchestrate-se3 hrs 7 mins        ████████████░░░░░░░░░░░░░   48.47 % 
+Gen                      2 hrs 58 mins       ████████████░░░░░░░░░░░░░   46.17 % 
+whisper                  20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+Latex                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
-Linux                    3 hrs 47 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 42 mins (97.99%)
+⏱ AI Coding Time: 6 hrs 6 mins (94.62%)
 
-✍️ 817 lines written by AI, 1 lines written by hand (99.88% AI-written)
+✍️ 2,698 lines written by AI, 67 lines written by hand (97.58% AI-written)
 
-🔤 8,448,732 Input Tokens, 414,568 Output Tokens
+🔤 8,858,587 Input Tokens, 556,411 Output Tokens
 
-💵 $86.31 Estimated AI Cost This Week
+💵 $93.74 Estimated AI Cost This Week
 
-🧠 37 AI Sessions, 652 AI Prompts
+🧠 38 AI Sessions, 684 AI Prompts
 
-GPT                      817 lines           █████████████████████████   100.00 % 
+Sonnet                   1,881 lines         █████████████████░░░░░░░░   69.72 % 
+GPT                      817 lines           ████████░░░░░░░░░░░░░░░░░   30.28 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.88% of written lines came from AI
-📚 Verbose Prompter — average 20,213 characters per prompt
+🤖 AI-Driven — 97.58% of written lines came from AI
+📚 Verbose Prompter — average 19,274 characters per prompt
 🔁 Iterative Prompter — average 18 prompts per session
-🚀 High AI Trust — 0.85% of changed lines were hand-edited
+🚀 High AI Trust — 3.61% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -104,5 +105,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2026 02:32:35 UTC
+ Last Updated on 17/09/2026 02:36:50 UTC
 <!--END_SECTION:waka-->
