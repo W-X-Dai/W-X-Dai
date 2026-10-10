@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-663%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-668%20hrs%2016%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-327%20hrs%2028%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-327%20hrs%2040%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -47,47 +47,46 @@ Sunday                   41 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-TeX                      10 hrs 14 mins      ████████████████░░░░░░░░░   62.55 % 
-Other                    2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
-Markdown                 1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-Python                   1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
-Bash                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+TeX                      9 hrs 30 mins       ███████████████████░░░░░░   74.24 % 
+Markdown                 1 hr 48 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+Other                    1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+BibTeX                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-VS Code                  10 hrs              ███████████████░░░░░░░░░░   61.19 % 
-Claude Code              6 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   38.52 % 
-Codex Vscode             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+VS Code                  9 hrs 3 mins        ██████████████████░░░░░░░   71.41 % 
+Claude Code              3 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   28.59 % 
 
 🐱‍💻 Projects: 
-Latex                    10 hrs 23 mins      ████████████████░░░░░░░░░   63.57 % 
-Gen                      4 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   26.10 % 
-HW1                      1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+Latex                    9 hrs 34 mins       ███████████████████░░░░░░   75.38 % 
+Gen                      2 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
+HW1                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 
 💻 Operating System: 
-Linux                    16 hrs 21 mins      █████████████████████████   100.00 % 
+Linux                    12 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 23 mins (39.06%)
+⏱ AI Coding Time: 3 hrs 37 mins (28.59%)
 
-✍️ 1,059 lines written by AI, 1,585 lines written by hand (40.05% AI-written)
+✍️ 644 lines written by AI, 1,572 lines written by hand (29.06% AI-written)
 
-🔤 5,928,527 Input Tokens, 295,280 Output Tokens
+🔤 4,580,254 Input Tokens, 208,639 Output Tokens
 
-💵 $100.33 Estimated AI Cost This Week
+💵 $73.58 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 49 AI Prompts
+🧠 12 AI Sessions, 28 AI Prompts
 
-Opus                     1,146 lines         █████████████████████████   100.00 % 
+Opus                     142 lines           █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 40.05% of written lines came from AI
-📄 Detailed Prompter — average 684 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 70.31% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 29.06% of written lines came from AI
+📝 Concise Prompter — average 120 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 80.63% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -103,5 +102,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/10/2026 03:49:03 UTC
+ Last Updated on 10/10/2026 03:31:51 UTC
 <!--END_SECTION:waka-->
