@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-686%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-686%20hrs%2024%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-341%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-341%20hrs%2027%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -47,47 +47,47 @@ Sunday                   62 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-TeX                      5 hrs 37 mins       █████████████░░░░░░░░░░░░   52.72 % 
-Other                    1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-JSON                     1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-Python                   1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+TeX                      5 hrs 2 mins        ███████████░░░░░░░░░░░░░░   43.90 % 
+Python                   2 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+Other                    1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+JSON                     1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
+Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 48 mins       ██████████████████░░░░░░░   73.19 % 
-Claude Code              2 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   26.81 % 
+VS Code                  8 hrs 6 mins        ██████████████████░░░░░░░   70.60 % 
+Claude Code              3 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   29.40 % 
 
 🐱‍💻 Projects: 
-Latex                    6 hrs               ██████████████░░░░░░░░░░░   56.35 % 
-HW2                      2 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
-Gen                      2 hrs               █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
-scratchpad               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
-data                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Latex                    5 hrs 23 mins       ████████████░░░░░░░░░░░░░   47.02 % 
+HW2                      4 hrs               █████████░░░░░░░░░░░░░░░░   34.88 % 
+Gen                      1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+data                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+source                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 Operating System: 
-Linux                    10 hrs 40 mins      █████████████████████████   100.00 % 
+Linux                    11 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 5 mins (28.98%)
+⏱ AI Coding Time: 3 hrs 39 mins (31.89%)
 
-✍️ 574 lines written by AI, 894 lines written by hand (39.1% AI-written)
+✍️ 316 lines written by AI, 913 lines written by hand (25.71% AI-written)
 
-🔤 972,250 Input Tokens, 129,751 Output Tokens
+🔤 1,065,647 Input Tokens, 142,558 Output Tokens
 
-💵 $15.57 Estimated AI Cost This Week
+💵 $19.60 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 65 AI Prompts
+🧠 12 AI Sessions, 105 AI Prompts
 
-Opus                     618 lines           █████████████████████████   100.00 % 
+Opus                     360 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 39.1% of written lines came from AI
-📝 Concise Prompter — average 494 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 68.52% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 25.71% of written lines came from AI
+📄 Detailed Prompter — average 568 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🔍 Hands-On Reviewer — 79.42% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -103,5 +103,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/10/2026 03:26:04 UTC
+ Last Updated on 01/11/2026 03:26:34 UTC
 <!--END_SECTION:waka-->
